@@ -10,4 +10,4 @@ I like C++ and I'm interested in low-latency development.
 
 **Passion/Long-term:**
 - keekast (C, CMake): Keycasting overlay for Wayland/wlroots compositors
-- wingman: neovim plugin to work alongside agents in parrallel
+- wingman: neovim plugin to work alongside pi-agent in parrallel
